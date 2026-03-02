@@ -8,4 +8,9 @@
 h4{
     color: beige;
     border-color: brown;
-}
+};
+
+*{
+    color: aqua
+    color(from color srgb r g b)
+};
